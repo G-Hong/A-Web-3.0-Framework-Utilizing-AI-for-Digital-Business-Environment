@@ -1,6 +1,8 @@
 # Web 3.0 & AI Integration Specialist
 
-![Web 3.0 Framework using AI](web3.0 framework.png)
+## System Architecture
+![Web 3.0 Framework using AI](web3.0_framework.png)
+*Figure 1: WFA (Web 3.0 Framework using AI) multi-layered architecture integrating governance, business applications, AI technology, and infrastructure components.*
 
 
 ## About Me
@@ -64,3 +66,9 @@ My work addresses the exponential growth in the Web 3.0 market ($2.25B in 2023, 
 - Decentralized autonomous organizations (DAOs)
 - Regulatory compliance in decentralized systems
 - Emerging token economic models
+
+## Let's Connect
+
+I'm interested in opportunities where I can apply my expertise in Web 3.0 and AI integration to solve complex business challenges and drive innovation in decentralized systems.
+
+[LinkedIn] | [Email] | [Portfolio]

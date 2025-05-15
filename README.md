@@ -1,5 +1,8 @@
 # Web 3.0 & AI Integration Specialist
 
+![Web 3.0 Framework using AI](web3.0 framework.png)
+
+
 ## About Me
 
 Web 3.0 architect and AI integration specialist with expertise in developing frameworks that bridge decentralized technologies with artificial intelligence. My research and implementation work focuses on creating scalable, secure business environments that leverage the full potential of blockchain and AI technologies.
@@ -61,9 +64,3 @@ My work addresses the exponential growth in the Web 3.0 market ($2.25B in 2023, 
 - Decentralized autonomous organizations (DAOs)
 - Regulatory compliance in decentralized systems
 - Emerging token economic models
-
-## Let's Connect
-
-I'm interested in opportunities where I can apply my expertise in Web 3.0 and AI integration to solve complex business challenges and drive innovation in decentralized systems.
-
-[LinkedIn] | [Email] | [Portfolio]
